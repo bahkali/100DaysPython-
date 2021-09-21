@@ -9,7 +9,7 @@ Feel to contact me if you find any error or area that need improvement, like a g
 </a>
  </p>
 
-## Libraries
+## Technologies and Libraries
 
 Languages and tool used:
 
